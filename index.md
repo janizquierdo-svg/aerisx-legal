@@ -1,8 +1,8 @@
 ---
-title: AerisX
+title: Aeris
 ---
 
-# AerisX
+# Aeris
 
 A camera for iPhone that develops film looks into the frame as you shoot.
 
